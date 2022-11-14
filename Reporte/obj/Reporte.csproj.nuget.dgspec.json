@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\Reporte\\Reporte.csproj": {}
+  },
+  "projects": {
+    "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\BackBanco\\BackBanco.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\BackBanco\\BackBanco.csproj",
+        "projectName": "BackBanco",
+        "projectPath": "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\BackBanco\\BackBanco.csproj",
+        "packagesPath": "C:\\Users\\Nicolas Mazzaglia\\.nuget\\packages\\",
+        "outputPath": "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\BackBanco\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nicolas Mazzaglia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\Reporte\\Reporte.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\Reporte\\Reporte.csproj",
+        "projectName": "Reporte",
+        "projectPath": "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\Reporte\\Reporte.csproj",
+        "packagesPath": "C:\\Users\\Nicolas Mazzaglia\\.nuget\\packages\\",
+        "outputPath": "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\Reporte\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Nicolas Mazzaglia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\BackBanco\\BackBanco.csproj": {
+                "projectPath": "D:\\TUP\\04_2do Cuatrimestre\\03_Programación II\\02_Prácticos\\TPI\\BANCO 9-11 -ok\\BackBanco\\BackBanco.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "ReportViewerCore.WinForms": {
+              "target": "Package",
+              "version": "[15.1.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

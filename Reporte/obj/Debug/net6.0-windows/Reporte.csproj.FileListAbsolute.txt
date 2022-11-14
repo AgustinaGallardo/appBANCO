@@ -1,0 +1,466 @@
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.Properties.Resources.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\bin\Debug\net6.0-windows\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.FrmReporte.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.Properties.Resources.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.GenerateResource.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\refint\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\Reporte.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\Reporte\obj\Debug\net6.0-windows\ref\Reporte.dll

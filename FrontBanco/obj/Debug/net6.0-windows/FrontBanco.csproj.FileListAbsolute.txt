@@ -1,0 +1,688 @@
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\China\Downloads\BANCOapi\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmModificar.resources
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\China\Downloads\BANCOapi\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmModificar.resources
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmModificar.resources
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmModificar.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\China\Downloads\Nueva carpeta\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmModificar.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmModificar.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmAcercaDe.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\FrontBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.Common.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.DataVisualization.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\bin\Debug\net6.0-windows\Reporte.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Form1.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmAcercaDe.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.FrmAltaTipoCuenta.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultarCuentas.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmConsultasClientes.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmLogin.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.frmPrincipal.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.Properties.Resources.resources
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.GenerateResource.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\refint\FrontBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\FrontBanco.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\FrontBanco\obj\Debug\net6.0-windows\ref\FrontBanco.dll

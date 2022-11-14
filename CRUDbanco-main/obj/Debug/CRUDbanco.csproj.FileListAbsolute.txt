@@ -1,0 +1,35 @@
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.AssemblyReference.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.AltaCliente.resources
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.Properties.Resources.resources
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.GenerateResource.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.csproj.CoreCompileInputs.cache
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\bin\Debug\CRUDbanco.exe.config
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\bin\Debug\CRUDbanco.exe
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\bin\Debug\CRUDbanco.pdb
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.exe
+C:\Users\China\Documents\SEGUNDO CUATRIMESTRE\programacion II\CRUDbanco\obj\Debug\CRUDbanco.pdb
+C:\Users\China\Downloads\BANCOapi\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.AssemblyReference.cache
+C:\Users\China\Downloads\BANCOapi\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\China\Downloads\BANCOapi\CRUDbanco-main\obj\Debug\CRUDbanco.Properties.Resources.resources
+C:\Users\China\Downloads\BANCOapi\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.GenerateResource.cache
+C:\Users\China\Downloads\BANCOapi\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.CoreCompileInputs.cache
+C:\Users\China\Downloads\BANCOapi\CRUDbanco-main\obj\Debug\CRUDbanco.exe
+C:\Users\China\Downloads\BANCOapi\CRUDbanco-main\obj\Debug\CRUDbanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\CRUDbanco-main\obj\Debug\CRUDbanco.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\CRUDbanco-main\obj\Debug\CRUDbanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\CRUDbanco-main\obj\Debug\CRUDbanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\CRUDbanco-main\obj\Debug\CRUDbanco.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\CRUDbanco-main\obj\Debug\CRUDbanco.Properties.Resources.resources
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.GenerateResource.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\CRUDbanco-main\obj\Debug\CRUDbanco.csproj.CoreCompileInputs.cache

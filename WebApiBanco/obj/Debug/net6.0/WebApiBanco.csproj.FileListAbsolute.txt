@@ -1,0 +1,420 @@
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\China\Downloads\BANCOapi\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\BANCO\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Gabi\Downloads\banco\BANCO\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\China\Downloads\Nueva carpeta\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Gabi\Downloads\banco\segunda\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 7-11\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 8-11\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 8-11 -ok_V2\BANCO 8-11 -ok\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+C:\Users\Hernan\Desktop\UTN\Programacion II\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.Development.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\appsettings.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.exe
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.deps.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.runtimeconfig.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\WebApiBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\bin\Debug\net6.0\BackBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.AssemblyReference.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfoInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.AssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CoreCompileInputs.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cs
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.MvcApplicationPartsAssemblyInfo.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.build.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\staticwebassets.development.json
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\scopedcss\bundle\WebApiBanco.styles.css
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.csproj.CopyComplete
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\refint\WebApiBanco.dll
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.pdb
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\WebApiBanco.genruntimeconfig.cache
+D:\TUP\04_2do Cuatrimestre\03_Programación II\02_Prácticos\TPI\BANCO 9-11 -ok\WebApiBanco\obj\Debug\net6.0\ref\WebApiBanco.dll
